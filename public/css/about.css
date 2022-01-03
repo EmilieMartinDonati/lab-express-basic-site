@@ -1,0 +1,26 @@
+/* div {
+    border: 2px solid black;
+} */
+
+button {
+    padding: 5%;
+    border-radius: 20px;
+    opacity: 0.8;
+    border: 2px solid red;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: green important!;
+}
+
+#onScreen {
+    background-color: goldenrod;
+}
+
+#onScreen h5 {
+    color: red;
+}
